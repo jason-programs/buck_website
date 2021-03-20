@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    color: #112d4e;
+    padding: 100px 0 0 0;
+    margin: 0 0 0 0;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #112d4e;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #112d4e;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 10px;
+    border-color: #dbe2ef;
+    width: 5%
+}
+
+/******* CLASS STYLES *******/
+
+.bottom-container {
+    background-color: #3f72af;
+    padding-top: 50px;
+}
+
+.BUTTON {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #F9F7F7;
+   font-family: Verdana;
+   font-size: 15px;
+   font-weight: 400;
+   padding: 20px;
+   background-color: #3F72AF;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 30px;
+   margin-bottom: 50px;
+}
+
+.buck-main {
+    border-radius: 20%;
+    width: 360px;
+    height: 450px;
+    margin: 50px 0 100px 0;
+}
+
+.buck-socks {
+    border-radius: 20%;
+    width: 40%;
+    margin-top: 25px;
+}
+
+.butterfly {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+
+.contact-body {
+    background-color: #f9f7f7;
+}
+
+.contact-header {
+    margin-top: 75px;
+}
+
+.copyright {
+    color: #f9f7f7;
+    margin-bottom: 0px;
+    padding: 20px 0 20px 0;
+}
+
+.dog-sleep {
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+.dog-wag {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.flying-1 {
+    top: 250px;
+    left: 25%;
+}
+
+.flying-2 {
+    top: 400px;
+    left: 20%;
+}
+
+.flying-3 {
+    bottom: 100px;
+    left: 25%
+}
+
+.footer-link {
+    color: #f9f7f7;
+    margin: 15px;
+}
+
+.grass {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    left: 25%;
+}
+
+.middle-container {
+    background-color: #f9f7f7;
+    padding-top: 50px;
+}
+
+.nasa {
+    width: 25%;
+    float: left;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 75px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.squirrel {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    left: 70%;
+}
+
+.sun {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 60px;
+    left: 75%;
+}
+
+.top-container {
+    background-color: #dbe2ef;
+    position: relative;
+}
